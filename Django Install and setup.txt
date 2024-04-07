@@ -1,0 +1,9 @@
+1. make project folder name anything you want, example(Django)
+2. open project in terminal 
+3. type command : python -m venv my_venv
+4. activate command : my_venv\Scripts\activate
+5. insatll command : pip install django
+6. check django-admin command : django-admin version
+7. project create command : django-admin startproject my_app
+8. change directory : cd my_app
+9. start run server : python manage.py runserver
